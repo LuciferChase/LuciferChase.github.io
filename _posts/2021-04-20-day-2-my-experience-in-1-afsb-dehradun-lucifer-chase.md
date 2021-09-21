@@ -13,7 +13,7 @@ header:
   overlay_filter: 0.5
   teaser: /assets/images/ssb.webp
 excerpt: Day - 2. Read how I fared on my second day where all the psychological tests were done. And yeah I had almost got myself expelled too and got an asterisk.
-featured_post: true
+featured_post: false
 ---
 
 This blog owing to its length is divided into 5 posts, each in detail description of my 5 day experience in the SSB. After reading this checkout the rest of the Posts too [SSB Stories](/blog/ssb-stories){: .btn .btn--inverse}
@@ -29,7 +29,7 @@ So, Lights! Camera! and Action!
 
 # Morning
 
-Call it fear, call it excitement or just the fact that we had to actually sleep at 10:30 last night because of Lights Out Rules, call it whatever but the fact was that I had actually woken up at *4:30* all by myself no shit!
+Call it fear, call it excitement or just the fact that we had to actually sleep at 10:30 last night because of Lights Out Rules, call it whatever but the fact was that I had actually woken up at **4:30** all by myself no shit!
 
 And I am one of those guy who can't wake up even by the loudest alarm. And it was pretty amazing dude.
 
@@ -72,7 +72,7 @@ And because of the restriction, I was able to finish all the Stories in under 4 
 
 It went pretty solid.
 
-If you are practising for TATs - make sure to complete your story in only half of a A4 sheet paper under 4 minutes. This would greatly enhance your speed and your creativity. 
+If you are practicing for TATs - make sure to complete your story in only half of a A4 sheet paper under 4 minutes. This would greatly enhance your speed and your creativity. 
 
 Also make a pretty solid story for the blank slide. You can, of course, make one on the spot then and there, but since you have the liberty, why not make a good story and polish it and write that one for the blank slide?
 
@@ -114,7 +114,7 @@ All in all, this too went surprisingly well and I was feeling pretty confident n
 
 In the booklet itself, all the SRTs were given, and after each SRT a line or two was given to write our reaction.
 
-I had practised a lot for this and was pretty confident for this. However there was a severe problem here.
+I had practiced a lot for this and was pretty confident for this. However there was a severe problem here.
 
 In all the previous tests, spacing was a restriction but it never felt like a problem. However in this one, we had to again write our reaction in a very tiny space. And I am a guy who has a big ass handwriting. 
 My speed took a toll and I had to cramp my writing to write the complete reaction to the given situation.
@@ -147,7 +147,7 @@ The question we were given were like this:
 3. What your friends or colleagues think about you?
 4. What you think about you and what kind of person you would like to become?
 
-Remember these questions are subject to each particular Centre and SSB and not the same for every SSB. But in most cases, the questions are slight variations of this only.
+Remember these questions are subject to each particular Center and SSB and not the same for every SSB. But in most cases, the questions are slight variations of this only.
 
 Since, most of the candidates know about these questions beforehand, almost everyone has the SD prepared and polished and full of ahhhhh well fake praises.
 
@@ -171,7 +171,7 @@ We were so hungry that we actually went inside the mess. We were politely send b
 
 Finally at around 1300 hrs we were given lunch, which shall we say was kind of decent or maybe it was because bat shit hungry and would have eaten the Mess Boy too if he would have been enough salted.
 
-After this only thing remained was to wait for our finally much awaited *Game Time*.
+After this only thing remained was to wait for our finally much awaited **Game Time**.
 We were so excited for this that we didn't even sleep at all and spend the entire afternoon playing dumb-charades, cricket with kinnu, and other dumb shits which would be kinda inappropriate to write here :wink:
 
 ## I was nearly expelled
@@ -180,7 +180,7 @@ Finally it was 1600 hrs and we were officially permitted to play outside.
 
 Due to the Covid, each group was allotted a particular game for a particular time frame only. Balls and other things could be issued from the game room.
 
-There was a strict *No intermixing between groups Rule*. I was probably in some dream world when this rule was stated. Maybe.
+There was a strict **No intermixing between groups Rule**. I was probably in some dream world when this rule was stated. Maybe.
 
 See, we were allotted volleyball for 1 hour and football for the next hour. And I hate these sports from the bottom of my heart. 
 I also happen to love Basketball. And I am kind of pretty Stupid too.
@@ -208,7 +208,7 @@ So there I was from being the most happy and confident guy to jack-shit scared t
 
 Yeah I was pretty much bummed up through that night. We kind of did a small discussion practice and called it a day and slept before even 2200 hrs.
 
-Lmao don't get so much depressed guys, we talked to that same NCO later on our 4th day and found that he had thrown that paper right away and they never told any psychologist or even our DSO. It was just to instil fear in us and to make us follow the covid protocols. 
+Lmao don't get so much depressed guys, we talked to that same NCO later on our 4th day and found that he had thrown that paper right away and they never told any psychologist or even our DSO. It was just to instil fear in us and to make us follow the Covid protocols. 
 
 I would say that certainly did the trick, ummm kind of too much even because no one, not even the repeaters broke any rule later on.
 

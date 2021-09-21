@@ -13,7 +13,7 @@ header:
   overlay_image: /assets/images/nda.webp
   overlay_filter: 0.5
   teaser: /assets/images/nda.webp
-excerpt: Read Rajat's exciting journey to Varanasi and his experience in screening. Get to how he prepared and what mistakes you should avoid.
+excerpt: Read Rajat's exciting journey to Varanasi and his experience in screening. Get to know how he prepared and what mistakes you should avoid.
 ---
 
 Hello everyone, Rajat Gupta this side. 

@@ -28,13 +28,13 @@ There were so many cool ideas regarding all kinds of things. I downloaded bunch 
 
 - [Banking System](http://python.mykvs.in/uploads/projects/XIComp.Sc.12.zip)
 
-![idea-bank](/assets/chase-hospitals/idea_bank.webp)
+![idea-bank](/assets/chase-hospitals/idea-bank.webp)
 
 This project was simply brilliant. I was completely surprised that you can do these kinds of things with python too. I was stoked. The use of Tkinter, stylized fonts, idea, everything was amazing. I decided at that time to make a project using Tkinter only. This project also gave the idea for Text - to - Speech.
 
 - [Hospital Management](http://python.mykvs.in/uploads/projects/XIIComp.Sc.47.zip)
 
-![idea-hospital](/assets/chase-hospitals/idea_hospital.webp)
+![idea-hospital](/assets/chase-hospitals/idea-hospital.webp)
 
 This project was completely based on Tkinter. This project actually gave me the idea for Hospital Management. Seeing this I decided to make my project completely using Tkinter only
 
